@@ -1,0 +1,5 @@
+streamlit==1.36.0
+praw==7.7.1
+pandas==2.2.2
+azure-ai-textanalytics==5.3.0
+azure-core==1.30.2
